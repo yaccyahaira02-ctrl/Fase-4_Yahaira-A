@@ -2,7 +2,7 @@
 # modelos.py y main.py usan: from log_manager import logger
 
 # MÓDULO DE GESTIÓN DE REGISTROS (LOGS)
-# ===========================================
+# ============================================
 
 import logging # Importa la librería nativa para generar registros y auditorías
 import os      # Importa la librería para interactuar con directorios del sistema operativo
