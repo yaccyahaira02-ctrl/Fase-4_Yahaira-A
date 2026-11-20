@@ -4,7 +4,7 @@
 # No es necesario ejecutar los otros tres archivos por separado.
 
 # SCRIPT PRINCIPAL Y SIMULACIÓN DE 10 OPERACIONES
-# ==========================================
+# ===========================================
 
 from modelos import Cliente, ReservaSala, AlquilerEquipo, AsesoriaEspecializada, Reserva
 from excepciones import SoftwareFJError
