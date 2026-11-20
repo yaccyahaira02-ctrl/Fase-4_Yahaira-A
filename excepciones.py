@@ -20,4 +20,4 @@ class ReservaInvalidaError(SoftwareFJError):
     """Se lanza cuando un intento de reserva falla por conflicto o datos erróneos."""
     pass # Error específico para fallas en el proceso de reservas
 
-# ===========================================
+# ============================================
